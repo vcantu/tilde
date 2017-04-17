@@ -1,0 +1,9 @@
+{
+  "name": "Material Tilde",
+  "description": "Material Design Start Page",
+  "version": "1.0",
+  "manifest_version": 2,
+  "chrome_url_overrides" : {
+    "newtab": "index.html"
+  }
+}
